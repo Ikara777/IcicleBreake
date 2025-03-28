@@ -34,9 +34,6 @@
 **📅 High-score 점수 갱신**
  - 파일을 통한 데이터 저장 시스템을 구축하여 1초마다 점수가 갱신되며 이전 점수와 비교하여 플레이어의 최고 점수를 갱신함.
 
-## 클래스 다이어그램
-<img src="https://github.com/user-attachments/assets/72f49385-710c-4201-8fb8-429b81fcacb1" width="750">
-
 ## 🖥️ 화면 구성
 
 <table>
